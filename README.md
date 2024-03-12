@@ -1,3 +1,1 @@
-# 0616
-
-# tensorflow lite using
+Trump card detection using tensorflow lite for raspberry pi
